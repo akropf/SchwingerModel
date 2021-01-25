@@ -7,6 +7,6 @@ Quantum field theories are the mathematical description of the physical world an
 ## Part I: The Schwinger Model
 In this section, the prerequisites for understanding the Quantum Field Theory concerned in the Schwinger Model, Quantum Electrodynamics, are given. Then, Lattice Field Theories and the Schwinger Model are explained.
 ## Part II: Quantum Computing 
-**ongoing** All necessary basics of Quantum computing are explained.
+**ongoing:** All necessary basics of Quantum computing are explained.
 ## Part III: Implementation
-**ongoing** Putting section I and II together, the Schwinger Model is implemented.
+**ongoing:** Putting section I and II together, the Schwinger Model is implemented.
