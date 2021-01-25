@@ -1,4 +1,4 @@
-### Schwinger Model and Quantum Computing
+# Schwinger Model and Quantum Computing
 ##Contribution
 This ongoing project is part of the mentorship program of the [Quantum Open Source Foundation](https://qosf.org/).
 The Mentor of this project is [Alba Alba Cervera-Lierta]{https://albacl.github.io}.
