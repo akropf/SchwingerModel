@@ -39,13 +39,12 @@ Massless particles are different, though, because they travel at the speed of li
 Nonetheless, we want to find an intrinsic value related to the helicity but that does not change if we move faster. The good news is that this intrinsic property exists, and it is called **chirality**. The bad news is that it is not easy to visualize. Particles have either left- or right-handed chirality, however, it does not change dependent on our reference-frame. For massless particles, helicity and chirality is the same. 
 
 ## Two-Component Spinors
-Fermions, for example electrons, have  half-odd integer spin (spin- *1/2*, ...) as explained above. In field theory, **spinors** are our mathematical representation of fermions.  Often, we use so-called four-component Dirac spinors. The primary motivation for this is that Dirac spinors are the irreducible representations of massive fermions. Fortunately, we can decompose the four-component Dirac into a pair of two-component spinors, <br>
+Fermions, for example electrons, have  half-odd integer spin (spin- *1/2*, ...) as explained above. In field theory, **spinors** are our mathematical representation of fermions.  Often, we use so-called four-component Dirac spinors. The primary motivation for this is that Dirac spinors are the irreducible representations of massive fermions. Fortunately, we can decompose the four-component Dirac into a pair of two-component spinors, called the **Weyl** or **chiral spinors** <img src="https://render.githubusercontent.com/render/math?math=u_%7B%2B%7D%2C%20u_%7B-%7D">:
+<br>
 <p align="center">
   <img src="https://github.com/akropf/Images/blob/main/2-Spinor.png" width="110" height="60">
 </p>
-where 
-<img src="https://render.githubusercontent.com/render/math?math=u_{%2B}, u_{-}"> 
-are called **Weyl** or **chiral spinors**. This allows us to work directly with *σ*-matrices (Pauli matrices), instead of *γ*-matrices.<br />
+This allows us to work directly with σ-matrices (Pauli matrices), instead of γ-matrices.<br />
   
 ## Gauge fields
 Since we now understand what we are generally dealing with, we can take a look at Quantum field theories, or QFT in short. QFT is obscure enough for it to not have a clear interpretation. If we consider one or two electrons, for example, we can look at Quantum mechanics and gain a considerable insight of the system. However, we need QFT to extend it reasonably to the analysis of many particles, meaning we gain a considerable amount of degrees of freedom. If we do not only look at particles, but also at fields, like magnetic field, Quantum mechanics fails to deliver. QFT is then used to give a uniform framework in which both multiple particles and field can be considered. There are a few characteristics and tricks to QFT, which we will discuss superficially for a better understanding. Lets start with fields.<br />
