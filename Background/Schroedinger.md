@@ -1,6 +1,6 @@
 # Schrödinger, Klein-Gordon and Dirac equation
 Before Schrödinger published his famous equation in 1925, it was already established that something peculiar was happening on small scales. 
-While Maxwell, who lived in the 19th century, was treating light as an electromagnetic wave, and successfully so, Einstein found an explanation for the photoelectric effect, 
+While Maxwell, who lived in the 19th century, was treating light as an electromagnetic wave, and successfully so, Einstein found an explanation for the [photoelectric effect](https://en.wikipedia.org/wiki/Photoelectric_effect), 
 by treating light as a stream of individual elementary particles, called *photons*.<br> 
 For the explanation of the photoelectric effect, he could make use of the same relationship between energy and frequency that was 
 proposed by Planck a few years ago:<br> <img src="https://render.githubusercontent.com/render/math?math=E%3Dh%5Cnu"><br>
