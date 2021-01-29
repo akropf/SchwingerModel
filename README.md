@@ -1,7 +1,8 @@
 # Schwinger Model and Quantum Computing
 ## Contribution
 This ongoing project is part of the mentorship program of the [Quantum Open Source Foundation](https://qosf.org/).<br>
-The Mentor of this project is [Alba Cervera-Lierta](https://albacl.github.io). <br> Additionally, a list of relevant publications and papers is provided [here.](https://github.com/akropf/SchwingerModel/blob/main/Papers/PaperList.md)
+The Mentor of this project is [Alba Cervera-Lierta](https://albacl.github.io). <br> Additionally, a list of relevant publications and papers is provided [here.](https://github.com/akropf/SchwingerModel/blob/main/Papers/PaperList.md)<br>
+Some additional aspects and concepts underlying the Schwinger Model are summarized in more depths in the [Background](https://github.com/akropf/SchwingerModel/blob/main/Background) folder. 
 ## Abstract
 Quantum field theories are the mathematical description of the physical world and underlie the Standard Model of Particle Physics (SM). Quantum computers bear the possibility of contributing to progress in fundamental particle physics. With this project, the Lattice Schwinger model is chosen to explain the fundamental steps underlying QFT theories. The goal is to show, using the Schwinger model, how quantum field theories can be simulated on a quantum device with using descriptions and language suitable for those without a background in particle physics and quantum fiel theories.
 ## Part I: The Schwinger Model
