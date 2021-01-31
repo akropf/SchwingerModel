@@ -33,12 +33,20 @@ So when Schrödinger wrote down his equation, he combined the following key aspe
 * Stable orbits correspond to periodic waves and
 * <img src="https://render.githubusercontent.com/render/math?math=E_%7Bkin%7D%3D%5Cfrac%7Bp%5E2%7D%7B2m%7D"> from classical physics.<br>
 The wave-function for one-dimension, describing <img src="https://render.githubusercontent.com/render/math?math=%5CPsi(x)"> at a fixed point in time is:<br>
-![Stationary wave](https://github.com/akropf/Images/blob/main/StationaryWave.png)<br>
+<br>
+<p align="center">
+  <img src="https://github.com/akropf/Images/blob/main/StationaryWave.png" width="250" height="60">
+<p><br>
 Now, if you use the new expression for <img src="https://render.githubusercontent.com/render/math?math=%5Clambda%0A">, we can write:<br>
-![PreSchrödinger](https://github.com/akropf/Images/blob/main/preSchrödingerEq.png)<br>
-Finally, we now that the total Energy is the sum of kinetic energy <img src="https://render.githubusercontent.com/render/math?math=E_%7Bkin%7D%0A"> and the potential Energy *V*, which also means that  <img src="https://render.githubusercontent.com/render/math?math=E_%7Bkin%7D%3DE_%7Bt%7D-V">.<br>
+<p align="center">
+  <img src="https://github.com/akropf/Images/blob/main/preSchrödingerEq.png" width="250" height="60">
+<p><br>
+Finally, we now that the total Energy is the sum of kinetic energy <img src="https://render.githubusercontent.com/render/math?math=E_%7Bkin%7D%0A"> and the potential Energy V, which also means that  <img src="https://render.githubusercontent.com/render/math?math=E_%7Bkin%7D%3DE_%7Bt%7D-V">.
 Finally, this brings us to the last equation, which is the famous Schrödinger equation:<br>
-![Schrödinger](https://github.com/akropf/Images/blob/main/SchrödingerEqfinal.png)<br>
+<p align="center">
+  <img src="https://github.com/akropf/Images/blob/main/SchrödingerEqfinal.png" width="310" height="65">
+<p><br>
+  
 The quick history of the Schrödinger equation makes clear that the effort of many is required before a groundbreaking piece of the puzzle is found.
 This summary is based on [Schrödinger and the Genesis of Wave Mechanics](https://www.mpiwg-berlin.mpg.de/sites/default/files/Preprints/P437.pdf), which goes into great depth about the history behind the Schrödinger equation.
 
