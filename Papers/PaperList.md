@@ -6,3 +6,4 @@ Here, you will find an ongoing list of papers related to the Schwinger Model and
 * [Quantum Algorithms for Simulating the Lattice Schwinger Model](https://arxiv.org/abs/2002.11146)
 ## Background
 * [Schrödinger and the Genesis of Wave Mechanics](https://www.mpiwg-berlin.mpg.de/sites/default/files/Preprints/P437.pdf)
+* [Equation with the many fathers. The Klein-Gordon equation in 1926.](https://aapt.scitation.org/doi/abs/10.1119/1.13782?journalCode=ajp) *no open access*
