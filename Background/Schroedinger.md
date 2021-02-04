@@ -5,7 +5,7 @@ While Maxwell, who lived in the 19th century, was treating light as an electroma
 by treating light as a stream of individual elementary particles, called *photons*.<br> 
 For the explanation of the photoelectric effect, he could make use of the same relationship between energy and frequency that was 
 proposed by Planck a few years ago:<br> <img src="https://render.githubusercontent.com/render/math?math=E%3Dh%5Cnu"><br>
-where the energy *E* is linked to the wave frequency <img src="https://render.githubusercontent.com/render/math?math=%5Cnu">. Here, *h* is the Planck constant.<br>
+where the energy *E* is linked to the wave frequency <img src="https://render.githubusercontent.com/render/math?math=%5Cnu">. Here, *h* is the [Planck constant](https://en.wikipedia.org/wiki/Planck_constant).<br>
 The wave-particle duality of light led to many groundbreaking ideas. 
 First, the physicist Louis de Broglie speculated that not only light exhibited a wave-particle duality, 
 but matter too. In his dissertation, he proposed another relation between wavelength and momentum: <br><img src="https://render.githubusercontent.com/render/math?math=%5Clambda%3D%5Cfrac%7Bh%7D%7Bp%7D">
@@ -13,7 +13,7 @@ but matter too. In his dissertation, he proposed another relation between wavele
 This means, that both the mechanical properties energy *E* and momentum *p* were translatable into wave properties, which was the first major part on the way to the 
 Schrödinger equation.<br>
 The second part concerned another mystery that was heavily discussed at the beginning of the 20th century, approximately ten years before de Broglie wrote his dissertation: 
-The Spectra of Chemical Elements. <br>
+The [Spectra](https://en.wikipedia.org/wiki/Emission_spectrum) of Chemical Elements. <br>
 If you pass the sun's light through a prism, you see all colors continuously emerging as a rainbow. However, if you fill a tube with hydrogen gas and pass its 
 light through the prism, you can see only four distinct lines with all other 'colors' in-between missing. If you would repeat this with different elements, 
 you would come to the conclusion that it depends on the element which and how many lines you see, so which colors of light are emitted and absorbed. 
