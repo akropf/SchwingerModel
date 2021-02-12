@@ -46,7 +46,16 @@ Finally, this brings us to the last equation, which is the famous Schrödinger e
 <p align="center">
   <img src="https://github.com/akropf/Images/blob/main/SchrödingerEqfinal.png" width="310" height="65">
 <p><br>
+ Now, let's go into more depth. In classical physics, certain mechanical quantities are measured, for example, position *x(t)* or momentum *p(t)*. In Quantum Mechanics, those quantities are translated into so-called operators, which are nothing else than certain multiplication- or differentiation rules 'acting' on the wave-function.   In Quantum Mechanics, those quantities are translated into so-called operators, which are nothing else than certain multiplication- or differentiation rules 'acting' on the wave-function.   Schrödinger expressed the physical quantities position, momentum, and energy as such differential operators for his formulation, which are:
+  <p align="center">
+  <img src="https://github.com/akropf/Images/blob/main/Translation.png">
+<p><br>
+If we consider this, we can write the stationary (time-independent) one-dimensional Schrödinger equation as<br>
+    <p align="center">
+  <img src="https://github.com/akropf/Images/blob/main/OpSchroedinger.png"width="480" height="75">
+<p><br>
   
-The quick history of the Schrödinger equation makes clear that the effort of many is required before a groundbreaking piece of the puzzle is found.
-This summary is based on [Schrödinger and the Genesis of Wave Mechanics](https://www.mpiwg-berlin.mpg.de/sites/default/files/Preprints/P437.pdf), which goes into great depth about the history behind the Schrödinger equation.
+which makes it more clear that the Schrödinger equation is nothing else than a formulation of the conservation of energy. This, however, leaves out one important concept already known at the time: Einstein's notion of general relativity.<br>
+The quick history of the Schrödinger equation makes clear that the effort of many is required before a groundbreaking piece of the puzzle is found.  
+This summary is based on [Schrödinger and the Genesis of Wave Mechanics](https://www.mpiwg-berlin.mpg.de/sites/default/files/Preprints/P437.pdf), which goes into great depth about the history behind the Schrödinger equation. Quantum Theory basics and Klein-Gordon equation derivations are from the paper [The Weak Force: from Fermi to Feynman](https://arxiv.org/abs/0911.0058), which summarizes the developent in particle physics, especially through nuclear beta decay, in the twentieth century.
 
